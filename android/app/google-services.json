@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783128069171",
+    "project_id": "babysitter2-7ea8c",
+    "storage_bucket": "babysitter2-7ea8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783128069171:android:5619bcfb16dcdc639b0f46",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9LqcAPu71RNDjMfZjVREEzKQazgZQU2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
